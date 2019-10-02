@@ -1,1 +1,1 @@
-Questo progetto consiste nell'applicazione del pattern command nella creazione di un videogioco.
+Questo progetto consiste nell'applicazione del pattern command per la creazione di un videogioco.
