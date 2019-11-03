@@ -16,6 +16,7 @@ public class Colpo {
 	}
 	
 	
+	
 	public int getX() { return x; }
 	public void setX(int c) { x = c; }
 	public int getY() { return y; }	
